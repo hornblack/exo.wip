@@ -1,5 +1,6 @@
 # exo.wip
-what is going on ? 
+what is going on ? dont be afraid 2 dev here. i have another dev github and 3 real githubs.. just dev ! 
+(if u want local copies figure out how 2 pull the copies , merge from our JBash cli etc. 
 
 
 
